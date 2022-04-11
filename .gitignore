@@ -2,6 +2,7 @@
 /node_modules
 /dist
 package-log.json
+/coverage
 
 # IDEs and editors
 /.idea
