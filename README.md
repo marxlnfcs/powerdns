@@ -2,10 +2,10 @@
 
 ## A NodeJS client to communicate with the PowerDNS API.
 
-[![npm](https://ico.y.gy/npm/dm/@marxln/powerdns?style=flat-square&logo=npm)](https://www.npmjs.com/package/@marxln/powerdns)
-[![NPM](https://ico.y.gy/npm/l/@marxln/powerdns?style=flat-square&color=brightgreen)](https://www.npmjs.com/package/@marxln/powerdns)
-[![Snyk Vulnerabilities for npm package](https://ico.y.gy/snyk/vulnerabilities/npm/@marxln/powerdns?style=flat-square&logo=snyk)](https://snyk.io/test/npm/@marxln/powerdns)
-[![Website](https://ico.y.gy/website?down_color=red&down_message=offline&label=repository&up_color=success&up_message=online&url=https%3A%2F%2Fgithub.com%2FMarxln%2Fpowerdns&style=flat-square&logo=github)](https://github.com/Marxln/powerdns)
+[![npm](https://ico.y.gy/npm/dm/@marxlnfcs/powerdns?style=flat-square&logo=npm)](https://www.npmjs.com/package/@marxlnfcs/powerdns)
+[![NPM](https://ico.y.gy/npm/l/@marxlnfcs/powerdns?style=flat-square&color=brightgreen)](https://www.npmjs.com/package/@marxlnfcs/powerdns)
+[![Snyk Vulnerabilities for npm package](https://ico.y.gy/snyk/vulnerabilities/npm/@marxlnfcs/powerdns?style=flat-square&logo=snyk)](https://snyk.io/test/npm/@marxlnfcs/powerdns)
+[![Website](https://ico.y.gy/website?down_color=red&down_message=offline&label=repository&up_color=success&up_message=online&url=https%3A%2F%2Fgithub.com%2Fmarxlnfcs%2Fpowerdns&style=flat-square&logo=github)](https://github.com/marxlnfcs/powerdns)
         
 ## Installation
 ```
