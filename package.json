@@ -8,8 +8,8 @@
     "test": "jest --runInBand",
     "generate-docs": "typedoc --options typedoc.config.js",
     "clean": "rimraf dist",
-    "build": "npm run clean && tsc",
-    "publish": "npm run build && node prepublish.js && cd dist && npm publish --access public"
+    "build": "npm run clean && tsc && node build.js",
+    "publish": "npm run build && cd dist && npm publish --access public"
   },
   "repository": {
     "type": "git",
